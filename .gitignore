@@ -1,0 +1,13 @@
+# Archivos de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.pyo
+
+# Carpetas de configuración del sistema/IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Datos (opcional, si no quieres subir datasets pesados)
+datasets/
